@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="DEMATRIX/DEMATRIX.vcxproj" Id="019cd567-e17c-4ea1-8f06-3b56345c7da9" />
+</Solution>
